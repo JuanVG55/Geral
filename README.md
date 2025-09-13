@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente trabalho na **Alba Seguradora**
 
-- 🌱 Esotu aprendendo **Python, análise de dados e databases.**
+- 🌱 Estou aprendendo **Python, análise de dados e databases.**
 
 - 💬 Me pergunte sobre **Power BI e SQL.**
 
